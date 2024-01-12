@@ -11,4 +11,4 @@ COPY src ./
 
 EXPOSE 8000
 
-CMD ["bun", "run", "index.ts"]⏎    
+CMD ["bun", "run", "index.ts"]
